@@ -14,5 +14,9 @@ namespace WpfApplication1
     public partial class App : Application
     {
         //Testing from machine-1 //Testing the conflicts
+        public App()
+        {
+
+        }
     }
 }
