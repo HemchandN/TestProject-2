@@ -19,5 +19,10 @@ namespace WpfApplication1
         {
 
         }
+
+        public void Machine2Code()
+        {
+            //In master branch
+        }
     }
 }
